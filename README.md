@@ -1,5 +1,5 @@
 # Hearst Connect AI 101 Workshop(Hearst Machine Learning Group)
-
+![hotdog](images/hot_md.png)
 Inspired by Hotdog and not hotdog mobile application in HBO's Silicon Valley show, We decided to make our own Hotdog classification web application. This is a fun, simple application, but we think it covers almost every aspect of building an end-to-end deep learning/ machine learning application. We hope you enjoy it.
 
 # Project Structure
