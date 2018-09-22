@@ -13,8 +13,10 @@ Inspired by Hotdog and not hotdog mobile application in HBO's Silicon Valley sho
 - train_set(training images for building the model, if you want to classify something else like(if house or ranch), just replace the `hodog`, `nothotdog` folders with images of house and ranch. Also,  don't forget to modify the path of new images when you try to load images)
 
 # Run the application:
-    `cd app`
-    `python application.py`
+```
+cd app
+python application.py
+```
 # Contact
 If you run into any problem when running this project, let us know.
 
